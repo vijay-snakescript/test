@@ -6,4 +6,10 @@ update in main
 
 Understanding merge and other commands
 added a new branch named Rohit
+<<<<<<< HEAD
 updating this in notepad
+=======
+
+
+change in rohit.txt
+>>>>>>> 30fe1c4ec4655b7eb8c296e6edb8391a40aa7e9d
