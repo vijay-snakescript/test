@@ -6,8 +6,4 @@ update in main
 
 Understanding merge and other commands
 added a new branch named Rohit
-<<<<<<< HEAD
 change in line 9
-=======
-change in line 9 in github
->>>>>>> eb377a3b2a5153664da3acc99092433adb7d02a2
