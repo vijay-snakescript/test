@@ -5,3 +5,5 @@ ggfyu
 I am working on merging
 
 Everything is best......
+
+Finding the difference nad how this command is working so
